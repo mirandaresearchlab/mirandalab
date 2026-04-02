@@ -1,15 +1,15 @@
 # site properties and page defaults
-title: mirandaresearchlab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Miranda Lab
+subtitle: Machine Learning & Image-based profiling
+description: We develop machine learning methods to understand cellular behavior and interactions across imaging and omics data. Our research focuses on integrating diverse biological modalities to model, simulate, and predict complex biological processes, with applications in disease diagnosis and treatment.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@mirandaresearchlab.com
-  orcid: 0000-0001-8713-9213
+  email: miranda.researchlab@gmail.com
+  #orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: mirandaresearchlab
   twitter: mirandaresearchlab

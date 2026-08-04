@@ -1,12 +1,13 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Cross-Modal Generative AI for Spatial Transcriptomics
+  subtitle: Uncertainty-aware modeling across tissue morphology and gene expression
   group: featured
-  image: images/photo.jpg
+  image: images/stomics_project.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: The project is developing and evaluating uncertainty-aware generative models linking tissue morphology and spatial gene expression while preserving biological heterogeneity.
   tags:
-    - resource
+    - spatial-biology
+    - multi-modal-data
+    - generative-ai
 
 - title: Cool Package
   subtitle: a subtitle

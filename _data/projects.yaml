@@ -18,14 +18,6 @@
   tags:
     - resource
 
-- title: Digital Futures: Demonstrator
-  subtitle: AI-assisted 3D kidney pathology
-  image: images/demonstrator.png
-  link: https://www.digitalfutures.kth.se/project/ai-assisted-3d-kidney-pathology/
-  description: The project will explore state-of-the-art self-supervised learning approaches to automatically identify, segment, and quantify disease-relevant structures from large-scale 3D microscopy data. By combining high-resolution imaging of intact kidney biopsies with AI-assisted image analysis, the project aims to improve diagnostic precision while reducing the time and effort required for pathology workflows.
-  tags:
-    - resource
-
 - title: Cool Web App
   subtitle: a subtitle
   image: images/photo.jpg

@@ -11,7 +11,9 @@ nav:
 How can artificial intelligence help us understand living systems?
 </div>
 
-At our lab, we develop machine learning approaches that integrate imaging and omics data to uncover the principles governing cellular behavior. Our research spans image-based profiling, multimodal learning, computational biology, and biomedical AI, with applications ranging from fundamental biology to disease diagnosis and therapeutic discovery.
+<p style="text-align: center !important;">
+At our lab, we develop machine learning approaches that integrate imaging and omics data to uncover the principles governing cellular behavior. Our research spans image-based profiling, multimodal learning, computational biology, and biomedical AI, with applications ranging from fundamental biology to disease diagnosis and therapeutic discovery
+</p>
 
 {% comment %}
 {% include section.html %}

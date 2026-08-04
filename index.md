@@ -3,7 +3,9 @@
 
 # Miranda Lab Website
 
+<div style="text-align: center>
 We develop machine learning methods to decode cellular behavior by integrating microscopy images and omics data to simulate, predict, and understand complex biological processes. Our work bridges the gap between raw biological data and meaningful clinical impact.
+</div>
 
 {% include section.html %}
 
@@ -11,7 +13,9 @@ We develop machine learning methods to decode cellular behavior by integrating m
 
 {% capture text %}
 
+<div style="text-align: center>
 From self-supervised learning to flow matching, explore the methods and applications we are developing across our research projects.
+</div>
 
 {%
   include button.html
@@ -35,7 +39,9 @@ From self-supervised learning to flow matching, explore the methods and applicat
 
 {% capture text %}
 
+<div style="text-align: center>
 Check out our latest papers and preprints.
+</div>
 
 {%
   include button.html
@@ -59,7 +65,9 @@ Check out our latest papers and preprints.
 
 {% capture text %}
 
+<div style="text-align: center>
 The people making it happen.
+</div>
 
 {%
   include button.html

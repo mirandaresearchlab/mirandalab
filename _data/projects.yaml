@@ -2,7 +2,7 @@
   subtitle: Uncertainty-aware modeling across tissue morphology and gene expression
   group: featured
   image: images/stomics_project.png
-  link: https://github.com/
+  link: https://mirandaresearchlab.github.io/2026/08/04/cross-modal-stomics
   description: The project is developing and evaluating uncertainty-aware generative models linking tissue morphology and spatial gene expression while preserving biological heterogeneity.
   tags:
     - spatial-biology

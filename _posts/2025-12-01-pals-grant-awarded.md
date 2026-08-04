@@ -2,9 +2,9 @@
 title: PALS Grant Awarded to Gisele Miranda and Avlant Nilsson
 author: gisele-miranda
 tags:
-  - bioimage-informatics
-  - image-analysis
-  - BIIF
+  - PALS
+  - SciLifeLab
+  - Multi-modal data
 ---
 
 Gisele Miranda and Avlant Nilsson (Karolinska Institutet - KI) have been awarded a grant through the Program for Academic Leaders in Life Science (PALS). PALS is a collaboration between the DDLS, SciLifeLab, and WCMM Fellow programs, co-funded by the Knut and Alice Wallenberg Foundation, with the goal of fostering new collaborations among early-career research leaders in Sweden. 

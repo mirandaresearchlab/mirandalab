@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-The Miranda Lab is based at [SciLifeLab Campus Solna](https://www.scilifelab.se/), one of Europe's leading centers for life science research. We are affiliated with the Division of [Computational Science and Technology](https://www.kth.se/cst/department-of-computational-science-and-technology-1.779024) at KTH Royal Institute of Technology and collaborate closely with researchers across the SciLifeLab ecosystem. Our research is highly interdisciplinary and involves partnerships with academic and clinical collaborators in Sweden and around the world.
+<p style="text-align: center !important;">
+The MirandaLab is based at [SciLifeLab Campus Solna](https://www.scilifelab.se/), one of Europe's leading centers for life science research. We are affiliated with the Division of [Computational Science and Technology](https://www.kth.se/cst/department-of-computational-science-and-technology-1.779024) at KTH Royal Institute of Technology and collaborate closely with researchers across the SciLifeLab ecosystem. Our research is highly interdisciplinary and involves partnerships with academic and clinical collaborators in Sweden and around the world.
+</p>
 
 {%
   include button.html

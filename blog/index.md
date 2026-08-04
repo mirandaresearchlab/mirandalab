@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Check the latest news from our group on this page.
+<p align="center"> Check the latest news from our group on this page </p>.
 
 {% include section.html %}
 

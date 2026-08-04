@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
 <p style="text-align: center !important;">
-  Check the latest news from our group on this page.
+  Check the latest news from our group on this page
 </p>
 
 {% include section.html %}

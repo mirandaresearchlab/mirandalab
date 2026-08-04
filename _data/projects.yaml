@@ -36,7 +36,6 @@
   description: The project will integrate image-based profiling and omics-based modeling through deep learning, creating a framework that links molecular signaling networks with cellular phenotypes.
   repo: https://mirandaresearchlab.github.io/2025/12/01/pals-grant-awarded
   tags:
-    - machine learning
     - multi-modal-data
 
 - title: Digital Futures Flagship Project
@@ -46,5 +45,4 @@
   description: A new computational framework for studying cancer biology in three dimensions, opening new opportunities for precision oncology and data-driven biomedical discovery.
   repo: https://mirandaresearchlab.github.io/2026/03/01/digital-futures-flagship.html
   tags:
-    - cancer-research
     - spatial-biology

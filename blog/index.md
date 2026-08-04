@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-<p class="text-center">
+<p style="text-align: center !important;">
   Check the latest news from our group on this page.
 </p>
 

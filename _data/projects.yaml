@@ -1,7 +1,7 @@
 - title: Cross-Modal Generative AI for Spatial Transcriptomics
   subtitle: Uncertainty-aware modeling across tissue morphology and gene expression
   group: featured
-  image: images/stomics_project_2.png
+  image: images/stomics_project.png
   link: https://mirandaresearchlab.github.io/2026/08/04/cross-modal-stomics
   description: The project is developing and evaluating uncertainty-aware generative models linking tissue morphology and spatial gene expression while preserving biological heterogeneity.
   tags:
@@ -12,7 +12,7 @@
 - title: Self-Supervised Foundation Models for Skin Barrier Assessment
   subtitle: Stratum corneum nanotexture as a scalable digital biomarker
   group: featured
-  image: images/scn_foundation_models_2.png
+  image: images/scn_foundation_models.png
   link: https://mirandaresearchlab.github.io/2026/08/05/scn-digital-biomarker
   description: This project develops self-supervised foundation models from nearly 25,000 atomic force microscopy images to investigate stratum corneum nanotexture (SCN) as a non-invasive digital biomarker across dermatological conditions, ultraviolet radiation exposure, and population variation.
   tags:

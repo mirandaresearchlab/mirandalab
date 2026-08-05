@@ -30,7 +30,7 @@ From self-supervised learning to flow matching, explore the methods and applicat
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/SNO.png"
   link="projects"
   title="Our Projects"
   style="bare"

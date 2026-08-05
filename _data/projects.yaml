@@ -24,7 +24,7 @@
   subtitle: AI-assisted 3D kidney pathology
   image: images/demonstrator.png
   link: https://mirandaresearchlab.github.io/2025/10/01/digital-futures-demonstrator
-  description: The project will explore state-of-the-art self-supervised learning approaches to automatically identify, segment, and quantify disease-relevant structures from large-scale 3D microscopy data.
+  description: 
   repo: https://mirandaresearchlab.github.io/2025/10/01/digital-futures-demonstrator
   tags:
     - 3D
@@ -34,7 +34,7 @@
   subtitle: Linking Omics and Images with Deep Learning to Decode Cellular Responses
   image: images/pals_overview.png
   link: https://mirandaresearchlab.github.io/2025/12/01/pals-grant-awarded
-  description: The project will integrate image-based profiling and omics-based modeling through deep learning, creating a framework that links molecular signaling networks with cellular phenotypes.
+  description: 
   repo: https://mirandaresearchlab.github.io/2025/12/01/pals-grant-awarded
   tags:
     - multi-modal-data
@@ -43,7 +43,7 @@
   subtitle: AI-Based 3D Spatial Cancer Biology
   image: images/flagship_overview.png
   link: https://mirandaresearchlab.github.io/2026/03/01/digital-futures-flagship.html
-  description: A new computational framework for studying cancer biology in three dimensions, opening new opportunities for precision oncology and data-driven biomedical discovery.
+  description: 
   repo: https://mirandaresearchlab.github.io/2026/03/01/digital-futures-flagship.html
   tags:
     - spatial-biology

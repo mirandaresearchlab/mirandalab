@@ -9,15 +9,16 @@
     - multi-modal-data
     - generative-ai
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Self-Supervised Foundation Models for Skin Barrier Assessment
+  subtitle: Stratum corneum nanotexture as a scalable digital biomarker
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/scn_foundation_models.png
+  link: https://mirandaresearchlab.github.io/2026/08/05/scn-digital-biomarker
+  description: This project develops self-supervised foundation models from nearly 25,000 atomic force microscopy images to investigate stratum corneum nanotexture (SCN) as a non-invasive digital biomarker across dermatological conditions, ultraviolet radiation exposure, and population variation.
   tags:
-    - resource
+    - digital-dermatology
+    - self-supervised-learning
+    - foundation-models
 
 - title: Digital Futures Demonstrator Project
   subtitle: AI-assisted 3D kidney pathology

@@ -30,7 +30,7 @@ From self-supervised learning to flow matching, explore the methods and applicat
 
 {%
   include feature.html
-  image="images/SNO.png"
+  image="images/stomics_project_2.png"
   link="projects"
   title="Our Projects"
   style="bare"
@@ -56,7 +56,7 @@ Check out our latest papers and preprints.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/scn_foundation_models_2.jpg"
   link="research"
   title="Our Publications"
   flip=true

@@ -56,7 +56,7 @@ Check out our latest papers and preprints.
 
 {%
   include feature.html
-  image="images/scn_foundation_models_2.jpg"
+  image="images/scn_foundation_models_2.png"
   link="research"
   title="Our Publications"
   flip=true

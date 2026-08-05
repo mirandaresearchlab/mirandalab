@@ -1,6 +1,5 @@
 ---
 title: Cross-Modal Generative AI for Spatial Transcriptomics
-image: images/stomics_project_2.png
 author: felipe-colombelli
 tags: spatial-biology, multi-modal-data, generative-ai
 ---

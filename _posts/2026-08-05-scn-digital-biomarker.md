@@ -1,6 +1,6 @@
 ---
 title: Self-Supervised Foundation Models for Skin Barrier Assessment
-image: images/scn_foundation_models.png
+image: images/scn_foundation_models_2.png
 author: jen-hung-wang
 tags: digital-dermatology, self-supervised-learning, foundation-models
 ---

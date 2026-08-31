@@ -16,4 +16,4 @@ Erik received his PhD in Computational Bioscience from the University of Colorad
 
 Now he works with Gisele Miranda, focusing on leveraging deep learning and AI methods to extract embeddings from microscopy images. He aims to apply the skills he gained during his PhD to extract biological insights from these embeddings, providing a better understanding of how cells behave under specific treatments/conditions.
 
-In his free time, Erik loves to read, hike, travel, dance, and learn new languages. He recently learned Brazilian Portuguese and is now looking to challenge himself by learning Swedish, aiming to reach a conversational level during his time in Sweden.<>
+In his free time, Erik loves to read, hike, travel, dance, and learn new languages. He recently learned Brazilian Portuguese and is now looking to challenge himself by learning Swedish, aiming to reach a conversational level during his time in Sweden.
